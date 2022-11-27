@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+}
+h1 {
+    font-family: "Emblema One", cursive;
+    font-size: 220%;
+}
+h2 {
+    font-size: 130%;
 }
